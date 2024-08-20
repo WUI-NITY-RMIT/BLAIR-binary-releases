@@ -12,7 +12,8 @@ Blair is an LLM-based desktop application project aimed at understanding human b
 
 1. **Installation**:
    - Install DotNet 6.0 runtime from this link if your windows computer has not installed it: https://dotnet.microsoft.com/en-us/download/dotnet/6.0 
-   - Download the latest binary release of Blair to your windows computer. The releases can be found on the right panel of this repository.
+   - Download the latest binary release of Blair to your windows computer. The current latext release can be found at this link:
+   <https://github.com/WUI-NITY-RMIT/BLAIR-binary-releases/releases/download/windows-x64/Blair-0.0.1-beta-windows-x64.zip>
    - Unzip the downloaded zip file of the release.
 
 2. **Usage**:
@@ -21,7 +22,7 @@ Blair is an LLM-based desktop application project aimed at understanding human b
    - Follow the workflow described in the Workflow section. A more detailed workflow can be found in **docs/Blair User Manual.pdf**.
 
 3. **Contributing**:
-   - We welcome collaborations, but we cannot publish the source code due to intellectual property proctection. Please contact xiangmin.zhou@rmit.edu.au for collaboration involving Blair. 
+   - We welcome collaborations, but we cannot publish the source code due to intellectual property proctection. As a result, the "source code.zip" file in each release only contains user manual, but does not contain any source code. Please contact xiangmin.zhou@rmit.edu.au for collaboration involving Blair. 
 
 ## Workflow
 
