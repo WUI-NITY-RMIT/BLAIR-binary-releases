@@ -12,7 +12,7 @@ Blair is an LLM-based desktop application project aimed at understanding human b
 
 1. **Installation**:
    - Install DotNet 6.0 runtime from this link if your windows computer has not installed it: https://dotnet.microsoft.com/en-us/download/dotnet/6.0 
-   - Download the latest binary release of Blair to your windows computer. The current latext release can be found at this link:
+   - Download the latest binary release of Blair to your windows computer. The current latest release can be found at this link:
    <https://github.com/WUI-NITY-RMIT/BLAIR-binary-releases/releases/download/windows-x64/Blair-0.0.1-beta-windows-x64.zip>
    - Unzip the downloaded zip file of the release.
 
